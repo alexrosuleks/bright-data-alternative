@@ -1,0 +1,20 @@
+{
+  "name": "bright-data-alternative",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Bright Data alternative for scraping: Amazon products from $1.27 per 1,000 against $1.50 on its Web Scraper API, proxies included. Compared with real prices.",
+  "main": "example.js",
+  "scripts": {
+    "start": "node example.js"
+  },
+  "keywords": [
+    "scraper",
+    "web-scraping",
+    "scrapely",
+    "amazon"
+  ],
+  "dependencies": {
+    "scrapely-client": "^2.25.15"
+  },
+  "license": "MIT"
+}

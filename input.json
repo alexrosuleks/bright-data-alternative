@@ -1,0 +1,27 @@
+{
+  "categoryOrProductUrls": [
+    {
+      "url": "https://www.amazon.com/dp/B09X7MPX8L"
+    }
+  ],
+  "maxItemsPerStartUrl": 10,
+  "maxSearchPagesPerStartUrl": 0,
+  "maxProductVariantsAsSeparateResults": 0,
+  "scrapeProductDetails": true,
+  "scrapeProductVariantPrices": false,
+  "maxOffers": 0,
+  "scrapeSellers": false,
+  "useCaptchaSolver": false,
+  "proxyCountry": "AUTO_SELECT_PROXY_COUNTRY",
+  "locationDeliverableRoutes": [
+    "PRODUCT",
+    "SEARCH",
+    "OFFERS"
+  ],
+  "proxyConfiguration": {
+    "useScrapelyProxy": true,
+    "scrapelyProxyGroups": [
+      "DATACENTER"
+    ]
+  }
+}
